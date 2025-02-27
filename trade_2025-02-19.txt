@@ -1,0 +1,9 @@
+== Entry ==
+Short Fartcoin at 0.3179, 19/02/2025, 10:10 AM UTC, margin 50,000, leverage 1.
+Long Grass at 1.7999, 19/02/2025, 10:10 AM UTC, margin 50,000, leverage 1.
+
+== Exit ==
+Fartcoin closed 20/02/2025, 09:30 AM UTC. Grass closed 20/02/2025, 09:30 AM UTC. Total profit ~$135.
+
+== Rationale ==
+Short Fartcoin to fade NY pre-open pump; memes lost momentum, likely going to 0. Long Grass to hedge, as it’s been strong recently; meme decline might shift focus to sound coins. Closed as market seems constructive, Fartcoin too reflexive to short, Grass underperformed. Better longs (TGE coins like Bera, IP) and shorts (Sol, AI memes like Zerebro, Goat) available.

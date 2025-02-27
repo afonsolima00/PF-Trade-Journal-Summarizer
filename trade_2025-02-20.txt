@@ -1,0 +1,9 @@
+== Entry ==
+Long IP at 3.31, 20/02/2025, 09:40 AM UTC, margin 50,000, leverage 1.
+Short Sol at 172, 20/02/2025, 09:40 AM UTC, margin 50,000, leverage 1.
+
+== Exit ==
+IP closed 20/02/2025, 11:00 AM UTC. Sol closed 20/02/2025, 11:00 AM UTC. Total loss ~$1500.
+
+== Rationale ==
+Long IP for its strength and negative funding; cautious of Kaito TGE stealing attention. Short Sol due to weakness, unlocks, Argentina FUD, and Hyperliquid shift. Trade reverted as IP dumped near Kaito TGE, as predicted, but execution faltered. Thesis solid, need better timing. Considering long Kaito if under $1.
