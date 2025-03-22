@@ -1,3 +1,0 @@
-# Description
-
-Build a “Trade Journal Summarizer” Python script that reads your own daily trade logs (entry, exit, and your notes on the rationale) then uses a free sentiment or text-summarization library to generate 2–3 concise bullet points summarizing each trade’s key takeaways. Store these summaries in a CSV or JSON for easy reference. By automatically condensing your trade rationale and performance notes, you’ll deepen your coding abilities, create a powerful reflection tool for future trades, and maintain a verifiable deliverable in a straightforward, cost-free way.
